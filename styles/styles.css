@@ -48,11 +48,11 @@ body {
   backface-visibility: visible;
 }
 
-.card:hover .turning-front {
+.card:hover .turning-front, .card:active .turning-front {
   transform: perspective(800px) rotateY(-170deg);
 }
 
-.card:hover .turning-back {
+.card:hover .turning-back, .card:active .turning-back {
   transform: perspective(800px) rotateY(-170deg);
 }
 
