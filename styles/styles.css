@@ -14,12 +14,13 @@ body {
 }
 
 .card {
-  background-image: url(/images/content.gif);
+  background-image: url(../images/content.gif);
   position: relative;
   width: 300px;
   height: 420px;
   border: 10px solid #ffffff;
   box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
 }
 
 .turning-part {
@@ -35,7 +36,7 @@ body {
 }
 
 .card .turning-front {
-  background-image: url(/images/front.png);
+  background-image: url(../images/front.png);
   /* background-size: contain; */
   backface-visibility: hidden;
 }
