@@ -1,3 +1,3 @@
 # Christmas Card
 
-Card with some animations and other goodies.
+Just a little Christmas card, currently in Finnish only. 🎅 [Link to the card](attuo.github.io/christmascard/) 
